@@ -11,14 +11,14 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  poush:
+    name: Piyush Agrawal
+    display_name: poush
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: me@ipiyush.com
+    web: https://ipiyush.com
+    twitter: https://twitter.com/mepoush
+    description: "Developer, foodie, and wanna be traveller."
   john:
     name: John
     display_name: John
