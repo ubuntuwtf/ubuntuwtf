@@ -1,7 +1,7 @@
 # Site
 name: "Ubuntu.wtf"
-description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+description: "WTF Ubuntu"
+meta_description: "Hacks, Tuts, about Ubuntu, Using Ubuntu, or anything that is wtf."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
